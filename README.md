@@ -1,2 +1,2 @@
 # LP-aulasresidencia
-Exercicios LP
+Exercícios LP
